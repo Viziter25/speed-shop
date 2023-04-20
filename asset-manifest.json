@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/speed-shop/static/css/main.706bd697.css",
-    "main.js": "/speed-shop/static/js/main.00b135cf.js",
+    "main.css": "/speed-shop/static/css/main.8dd6b020.css",
+    "main.js": "/speed-shop/static/js/main.a6fbfd4f.js",
     "static/js/787.485600ca.chunk.js": "/speed-shop/static/js/787.485600ca.chunk.js",
     "static/media/slide 4.svg": "/speed-shop/static/media/slide 4.714d4f56cda5d1fa3d3e36eb2bdbdc2b.svg",
     "static/media/slide 1.svg": "/speed-shop/static/media/slide 1.b0c5fc92163999d66140aa640f1149c1.svg",
@@ -25,12 +25,12 @@
     "static/media/circle blue.svg": "/speed-shop/static/media/circle blue.6c3e5cabc42bb94738ef52ee76911762.svg",
     "static/media/circle pink.svg": "/speed-shop/static/media/circle pink.8eb57bb35f1027a99dc9c85c8811b008.svg",
     "static/media/circle purple.svg": "/speed-shop/static/media/circle purple.25737b56afce657910a58259c3478b72.svg",
-    "main.706bd697.css.map": "/speed-shop/static/css/main.706bd697.css.map",
-    "main.00b135cf.js.map": "/speed-shop/static/js/main.00b135cf.js.map",
+    "main.8dd6b020.css.map": "/speed-shop/static/css/main.8dd6b020.css.map",
+    "main.a6fbfd4f.js.map": "/speed-shop/static/js/main.a6fbfd4f.js.map",
     "787.485600ca.chunk.js.map": "/speed-shop/static/js/787.485600ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.706bd697.css",
-    "static/js/main.00b135cf.js"
+    "static/css/main.8dd6b020.css",
+    "static/js/main.a6fbfd4f.js"
   ]
 }
