@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/speed-shop/static/css/main.851f76d2.css",
+    "main.js": "/speed-shop/static/js/main.7bd57318.js",
+    "static/js/787.485600ca.chunk.js": "/speed-shop/static/js/787.485600ca.chunk.js",
+    "static/media/slide 4.svg": "/speed-shop/static/media/slide 4.714d4f56cda5d1fa3d3e36eb2bdbdc2b.svg",
+    "static/media/slide 1.svg": "/speed-shop/static/media/slide 1.b0c5fc92163999d66140aa640f1149c1.svg",
+    "static/media/slide2.svg": "/speed-shop/static/media/slide2.09d0d787f42070706b94284055293758.svg",
+    "static/media/division3.svg": "/speed-shop/static/media/division3.aaa995be5378948941b186736479c668.svg",
+    "static/media/division2.svg": "/speed-shop/static/media/division2.3b3f7dbb49636f643ca0d47f466b7776.svg",
+    "static/media/division1.svg": "/speed-shop/static/media/division1.6c2b79e8a84dc1df1705a3381eee29ad.svg",
+    "static/media/footerPage2.svg": "/speed-shop/static/media/footerPage2.5725bdf9e21cc5466c0b821f03f1bf6f.svg",
+    "static/media/footer.svg": "/speed-shop/static/media/footer.56a6a87d49ba6e68458c381134604b98.svg",
+    "static/media/headerPage2.svg": "/speed-shop/static/media/headerPage2.681aed06622b2e0709d3f078b8e307ea.svg",
+    "static/media/header.svg": "/speed-shop/static/media/header.949b4d17109b60de51441623793cf7aa.svg",
+    "static/media/arrow.svg": "/speed-shop/static/media/arrow.bb883d11da1c14227293a9c050657f30.svg",
+    "static/media/division.svg": "/speed-shop/static/media/division.d9ecf98657feb68570b7d2c1ac5d3c06.svg",
+    "static/media/backgroud.svg": "/speed-shop/static/media/backgroud.37f8ff36c439a3ebca70b167e675583c.svg",
+    "static/media/Slider background.svg": "/speed-shop/static/media/Slider background.502e4570778a83a7aab36c07ed61f97c.svg",
+    "index.html": "/speed-shop/index.html",
+    "static/media/close.svg": "/speed-shop/static/media/close.ad7ac5953e21a98f2c228c2611d6a209.svg",
+    "static/media/next arrow.svg": "/speed-shop/static/media/next arrow.544aed41d881d3e89063b1d0b54cd064.svg",
+    "static/media/burger.svg": "/speed-shop/static/media/burger.eca46d204fb3d05d5e8638c4fd98328d.svg",
+    "static/media/prev arrow.svg": "/speed-shop/static/media/prev arrow.6cb8dcb53fc4791be673616febc05137.svg",
+    "static/media/circle blue.svg": "/speed-shop/static/media/circle blue.6c3e5cabc42bb94738ef52ee76911762.svg",
+    "static/media/circle pink.svg": "/speed-shop/static/media/circle pink.8eb57bb35f1027a99dc9c85c8811b008.svg",
+    "static/media/circle purple.svg": "/speed-shop/static/media/circle purple.25737b56afce657910a58259c3478b72.svg",
+    "main.851f76d2.css.map": "/speed-shop/static/css/main.851f76d2.css.map",
+    "main.7bd57318.js.map": "/speed-shop/static/js/main.7bd57318.js.map",
+    "787.485600ca.chunk.js.map": "/speed-shop/static/js/787.485600ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851f76d2.css",
+    "static/js/main.7bd57318.js"
+  ]
+}
