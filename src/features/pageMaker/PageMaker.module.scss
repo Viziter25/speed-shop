@@ -94,7 +94,6 @@
 
 @media (max-width: 1020px) {
   .mainContainer {
-    height: 100vh;
 
     .headerContainer {
       left: 50px;
@@ -119,18 +118,11 @@
 
     .mainItem {
       flex-wrap: wrap;
-      padding: 10px;
+      padding: 20px;
 
       .contentContainer {
         margin-right: 0px;
 
-
-        .contentButtonBlock {
-          position: absolute;
-          top: 50%;
-          left: 50%;
-          transform: translate(-50%, 650%);
-        }
       }
     }
   }
@@ -144,13 +136,6 @@
       width: 100%;
     }
 
-    .mainItem {
-      .contentContainer {
-        .contentButtonBlock {
-          transform: translate(-50%, 650%);
-        }
-      }
-    }
   }
 }
 
@@ -161,12 +146,5 @@
       width: 100%;
     }
 
-    .mainItem {
-      .contentContainer {
-        .contentButtonBlock {
-          transform: translate(-50%, 750%);
-        }
-      }
-    }
   }
 }

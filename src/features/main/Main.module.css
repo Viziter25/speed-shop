@@ -221,9 +221,6 @@
 
 
 @media (max-width: 680px) {
-    .mainContainer {
-        height: 100vh;
-    }
 
     .speedometerBlock {
         flex-direction: column-reverse;
@@ -234,12 +231,6 @@
         justify-content: space-around;
     }
 
-    .contentButtonBlock {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, 750%);
-    }
 }
 
 @media (max-width: 620px) {
@@ -251,7 +242,7 @@
 
 @media (max-width: 500px) {
     .mainItem {
-        padding: 5px;
+        padding: 25px;
     }
 
     .buttonContainer {
@@ -268,9 +259,6 @@
         align-items: center;
     }
 
-    .contentButtonBlock {
-        transform: translate(-50%, 600%);
-    }
 
     .button {
         width: 96px;
