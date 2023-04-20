@@ -1,0 +1,39 @@
+.button{
+  width: 136px;
+  height: 38px;
+  border: 1px solid #FFFFFF;
+  border-radius: 20px;
+  box-sizing: border-box;
+
+  cursor: pointer;
+
+  font-family: 'Montserrat',  sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  background: #252424;
+
+}
+
+
+
+ .level1:hover {
+   background: #7A0BC0;
+ }
+.level1 {
+    background: #7A0BC0;
+}
+.level2:hover {
+   background: #0B8AC0;
+ }
+.level2 {
+   background: #0B8AC0;
+ }
+ .level3:hover {
+   background: #E105E5;
+ }
+.level3 {
+    background: #E105E5;
+}

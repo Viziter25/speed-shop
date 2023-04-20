@@ -1,0 +1,116 @@
+.slider {
+  position: relative;
+  width: 600px;
+  height: 600px;
+.sliderBlock {
+    position: relative;
+    width: 500px;
+    height: 523px;
+  .sliderItemImg{
+    width: 384px;
+    height: 384px;
+    position: absolute;
+    top: 5%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    borderRadius: 50%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+    .sliderImg {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    .arrowImg {
+      position: absolute;
+      top: 450px;
+      left: 30px;
+      .nextImg{
+        margin-right: 70px;
+        cursor: pointer;
+      }
+      .prevImg{
+        cursor: pointer;
+      }
+    }
+
+  }
+}
+
+@media (max-width: 1020px) {
+  .slider {
+    width: 320px;
+    height: 340px;
+    .sliderBlock {
+      width: 100%;
+      .sliderBlockImg {
+        width: 100%;
+      }
+      .sliderItemImg{
+        width: 245px;
+        height: 245px;
+      }
+      .sliderImg {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .arrowImg {
+
+        top: 50%;
+        left: 50%;
+        transform: translate(-190%, 50%);
+        .nextImg{
+          margin-right: 30px;
+          width: 19px;
+          height: 30px;
+        }
+        .prevImg {
+          width: 19px;
+          height: 30px;
+        }
+      }
+
+    }
+  }
+}
+
+@media (max-width: 430px) {
+  .slider {
+    width: 280px;
+    height: 295px;
+    .sliderBlock {
+      width: 100%;
+      .sliderBlockImg {
+        width: 100%;
+      }
+      .sliderItemImg{
+        width: 217px;
+        height: 217px;
+      }
+      .sliderImg {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .arrowImg {
+
+        top: 50%;
+        left: 50%;
+        transform: translate(-190%, 50%);
+        .nextImg{
+          margin-right: 30px;
+          width: 19px;
+          height: 30px;
+        }
+        .prevImg {
+          width: 19px;
+          height: 30px;
+        }
+      }
+
+    }
+  }
+}
