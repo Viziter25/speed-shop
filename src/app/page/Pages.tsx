@@ -9,7 +9,7 @@ import {PageMaker} from 'features/pageMaker/PageMaker';
 export const Pages = () => {
 
   return (
-    <div className={''}>
+    <div>
       <Routes>
         <Route path='/' element={<Layout/>}>
           <Route path={PATH.MAIN} element={<Main/>} />

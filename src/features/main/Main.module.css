@@ -87,9 +87,10 @@
     transform: translateY(-5px);
 }
 
-.speedometerBlock{
+.speedometerBlock {
     display: flex;
 }
+
 .speedometerContainer {
     position: relative;
     width: 370px;
@@ -205,12 +206,15 @@
         flex-wrap: wrap;
         padding: 15px 50px;
     }
+
     .headerContainer {
         left: 50px;
     }
+
     .contentContainer {
         width: 100%;
     }
+
     .speedometerBlock {
         margin-top: 15px;
     }
@@ -242,6 +246,7 @@
         text-align: center;
     }
 }
+
 @media (max-width: 500px) {
     .mainItem {
         padding: 5px;
@@ -291,28 +296,32 @@
         transform: rotate(240deg) translate(29px, 10px);
         transition: all .2s ease 0.2s;
     }
+
     .backgroundSpeed {
         width: 135%;
     }
 
-    .backgroundSpeed img{
+    .backgroundSpeed img {
         width: 100%;
     }
 
     .division {
         width: 100%;
     }
-    .division img{
+
+    .division img {
         width: 100%;
     }
 
     .division1 {
         width: 110%;
     }
-    .division1 img{
+
+    .division1 img {
         width: 100%;
     }
-    .circle img{
+
+    .circle img {
         width: 26px;
     }
 }

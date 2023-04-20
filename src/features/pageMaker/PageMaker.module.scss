@@ -1,9 +1,9 @@
 .mainContainer {
   background: #252424;
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
   .image {
     width: 100%;
   }
@@ -12,9 +12,11 @@
     position: absolute;
     left: 100px;
     top: 50px;
+
     .burgerMenuIcon {
       cursor: pointer;
       transition: 0.5s;
+
       &:hover {
         transform: scale(1.1);
       }
@@ -79,6 +81,7 @@
 
           word-break: break-all;
           transition: 0.9s;
+
           &:hover {
             transition: 2s;
             background: linear-gradient(93.71deg, #7A0BC0 -7.46%, #FA58B6 65.02%, #3858C7 106.98%);
@@ -91,9 +94,12 @@
 
 @media (max-width: 1020px) {
   .mainContainer {
+    height: 100vh;
+
     .headerContainer {
       left: 50px;
     }
+
     .mainItem {
       padding: 50px;
     }

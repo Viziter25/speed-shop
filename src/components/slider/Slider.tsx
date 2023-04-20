@@ -18,7 +18,7 @@ export const Slider: React.FC = () => {
     const handleResize = () => {
       setViewportWidth(window.innerWidth);
     };
-    window.addEventListener("resize", handleResize);
+    window.addEventListener('resize', handleResize);
 
   }, []);
 
@@ -42,7 +42,7 @@ export const Slider: React.FC = () => {
 
 
   const radius: number = 300;
-  const translateStyleImg = viewportWidth < 1020 &&  viewportWidth > 430? 'translate(-180%, 3%)': viewportWidth < 430 ? 'translate(-197%, 5%)' : 'translate(-140%, 15%)'
+  const translateStyleImg = viewportWidth < 1020 && viewportWidth > 430 ? 'translate(-180%, 3%)' : viewportWidth < 430 ? 'translate(-197%, 5%)' : 'translate(-140%, 15%)'
   console.log(translateStyleImg)
   const handleTransitionEnd = () => {
     setIsAnimating(false);
