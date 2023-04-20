@@ -1,6 +1,5 @@
 .mainContainer {
     background: #252424;
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -222,6 +221,9 @@
 
 
 @media (max-width: 680px) {
+    .mainContainer {
+        height: 100vh;
+    }
 
     .speedometerBlock {
         flex-direction: column-reverse;
